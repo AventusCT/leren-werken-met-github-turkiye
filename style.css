@@ -5,11 +5,7 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-<<<<<<< Updated upstream
-    background-color: #f4f4f4;
-=======
-    background-color: #999;
->>>>>>> Stashed changes
+    background-color: #FF69B4;
 }
 
 h1 {
@@ -25,7 +21,7 @@ table {
 }
 
 table, th, td {
-    border: 1px solid #999;
+    border: 5px solid #000000;
 }
 
 th, td {
